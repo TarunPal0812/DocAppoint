@@ -77,7 +77,7 @@ frontend/
     # or
     yarn dev
     ```
-4. Open [https://docappointfrontend.netlify.app/](https://docappointfrontend.netlify.app/) in your browser.
+4. Open [https://docappoint-client.netlify.app/](https://docappoint-client.netlify.app/) in your browser.
 
 ### Build for Production
 
