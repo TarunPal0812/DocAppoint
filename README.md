@@ -77,7 +77,7 @@ frontend/
     # or
     yarn dev
     ```
-4. Open [http://localhost:5173](http://localhost:5173) in your browser.
+4. Open [https://docappointfrontend.netlify.app/](https://docappointfrontend.netlify.app/) in your browser.
 
 ### Build for Production
 
